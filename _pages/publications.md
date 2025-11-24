@@ -1,16 +1,9 @@
 ---
-permalink: /
-title: "Welcome to Zihang’s Homepage"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-
-I am currently a undergraduate student at Zhejiang University of Technology, specializing in data visualization and large language modals. I joined the Data Visualization Group at Zhejiang University of Technology([ZJUTVIS](https://zjutvis.org)) in 2023 and under the guidance of [Prof. Guodao Sun](https://godoorsun.org/) to explore these fascinating and rapidly evolving fields.
-
-## Recent Publication 🎉
-
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
 <div style="position: relative; flex-shrink: 0; margin-right: 20px;">
