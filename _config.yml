@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://oss.vizhub.top/zjutvis/homepage/members/zihangfu/1111.jpg"
   name             : "Zihang Fu (付子航)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at Zhejiang University of Technology."
