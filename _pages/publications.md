@@ -13,11 +13,11 @@ author_profile: true
 
 <div style="flex: 1;">
 <strong>InfoAffect: A Dataset for Affective Analysis of Infographics</strong><br>
-<span style="color: #2174A8;">Zihang Fu</span>, Yunchao Wang, Chenyu Huang, Guodao Sun* & Ronghua Liang<br>
+<span style="color: #2174A8;">Zihang Fu</span>, Yunchao Wang*, Chenyu Huang, Guodao Sun & Ronghua Liang<br>
 <div style="background-color: #E6F3FF; border-left: 4px solid #2174A8; padding: 8px 12px; border-radius: 4px; margin: 5px 0; font-size: 14px; color: #1B5A87;">
-🚀 <strong>IEEE Pacific Visualization Conference (PacificVis)</strong>, 2026
+🚀 <strong>IEEE Transactions on Affective Computing</strong>, 2026
 </div>
-<a href="https://github.com/bulichuchu/InfoAffect-datase" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
+<a href="https://huggingface.co/datasets/fushuai0823/InfoAffect" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Dataset]</a>
 <a href="https://arxiv.org/pdf/2511.06404" style="color: #2174A8; text-decoration: none; margin-right: 15px;">[Paper]</a>
 </div>
 </div>
